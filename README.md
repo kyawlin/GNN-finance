@@ -1,6 +1,5 @@
 # GNN-finance
-Curated list of Graph Neural Network Applications in Business, Finance and Banking
-`Graph Neural Network Applications in Business and Finance`
+Curated list of `Graph Neural Network Applications in Business and Finance`
 <!-- toc -->
 
 - [Dataset](#Dataset)
