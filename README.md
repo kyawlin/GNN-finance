@@ -73,7 +73,7 @@ Abstract
 
 1. [GFTE: Graph-based Financial Table Extraction](https://arxiv.org/abs/2003.07560) (2020)
 Yiren Li, Zheng Huang, Junchi Yan, Yi Zhou, Fan Ye, Xianhui Liu
-2. [Classifying and Understanding Financial Data Using Graph Neural Network]((https://www.jpmorgan.com/content/dam/jpm/cib/complex/content/technology/ai-research-publications/pdf-1.pdf)) (2019)
+2. [Classifying and Understanding Financial Data Using Graph Neural Network](https://www.jpmorgan.com/content/dam/jpm/cib/complex/content/technology/ai-research-publications/pdf-1.pdf) (2019)
  Xiaoxiao Li1, Joao Saude, Prashant Reddy, Manuela Veloso
  
  ### Remarks.
