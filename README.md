@@ -40,7 +40,6 @@ Xu Geng, Yaguang Li, Leye Wang
 with Graphs](https://etheses.whiterose.ac.uk/28012/6/Shuyi_202025658_Thesis.pdf) (2021) [Thesis]
 Shuyi Peng
 
-
 # Credit Rating and Risk Management
 
 1. [Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining](https://www.ijcai.org/Proceedings/2020/0643.pdf) (2020)
