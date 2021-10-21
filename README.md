@@ -74,7 +74,10 @@ Abstract
 1. [GFTE: Graph-based Financial Table Extraction](https://arxiv.org/abs/2003.07560) (2020)
 Yiren Li, Zheng Huang, Junchi Yan, Yi Zhou, Fan Ye, Xianhui Liu
 2. [Classifying and Understanding Financial Data Using Graph Neural Network](https://www.jpmorgan.com/content/dam/jpm/cib/complex/content/technology/ai-research-publications/pdf-1.pdf) (2019)
- Xiaoxiao Li1, Joao Saude, Prashant Reddy, Manuela Veloso
+ Xiaoxiao Li, Joao Saude, Prashant Reddy, Manuela Veloso
+ 3. [GRAM: Graph-based Attention Model for Healthcare
+Representation Learning](https://arxiv.org/pdf/1611.07012.pdf) (2017)
+ Edward Choi, Mohammad Taha Bahadori, Le Song, Walter F. Stewart, Jimeng Sun
  
- ### Remarks.
+### Remarks.
 Free free to pull request or point out the mistakes. 
