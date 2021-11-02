@@ -67,7 +67,9 @@ Recommending Top-K Profitable Stocks](https://arxiv.org/pdf/2106.10159.pdf) (202
 Yi-Ling Hsu, Yu-Che Tsai
 2. [Relation-aware dynamic attributed graph attention network for stocks recommendation](https://ui.adsabs.harvard.edu/abs/2022PatRe.12108119F/abstract) (2022)
 Feng, Shibo ; Xu, Chen ; Zuo, Yu ; Chen, Guo ; Lin, Fan ; XiaHou, Jianbing
-Abstract
+3. [Time-aware Graph Relational Attention Network for Stock
+Recommendation](https://dl.acm.org/doi/abs/10.1145/3340531.3412160) (2020)
+Xiaoting Ying, Cong Xu
 
 # Others
 
