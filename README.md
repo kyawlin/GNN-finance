@@ -11,6 +11,7 @@ Curated list of `Graph Neural Network Applications in Business and Finance`
 
 <!-- tocstop -->
 # Dataset
+1.**The Elliptic Data Set** maps Bitcoin transactions to real entities belonging to licit categories (exchanges, wallet providers, miners, licit services, etc.) versus illicit ones (scams, malware, terrorist organizations, ransomware, Ponzi schemes, etc.). The task on the dataset is to classify the illicit and licit nodes in the graph.  https://www.kaggle.com/ellipticco/elliptic-data-set  
 
 # Forecasting
 
