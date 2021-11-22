@@ -52,7 +52,7 @@ Hao Peng, Jianxin Li, Zheng Wang, Renyu Yang
 Le Lv, Jianbo Cheng, Nanbo Peng
 3. [EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data](https://arxiv.org/abs/2009.14588) (2020)
   Ivan Sukharev, Valentina Shumovskaia, Kirill Fedyanin, Maxim Panov, Dmitry Berestnev
-4. [Temporal-Aware Graph Neural Network for Credit Risk Prediction] (https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.79) (2021)
+4. [Temporal-Aware Graph Neural Network for Credit Risk Prediction](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.79) (2021)
 Daixin Wang, Zhiqiang Zhang, Jun Zhou, Peng Cui 
 
 # Fraud Detection and Money Laundering
