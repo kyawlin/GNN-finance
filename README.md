@@ -3,7 +3,7 @@ Curated list of `Graph Neural Network Applications in Business and Finance`
 <!-- toc -->
 
 - [Dataset](#Dataset)
-- [Forecasting](#Forecasting)
+- [Forecasting in Finaicial Market](#Forecasting-in-Finaicial-Market)
 - [Credit Rating and Risk Management](#Credit-Rating-and-Risk-Management)
 - [Fraud Detection and Money Laundering](#Fraud-Detection-and-Money-Laundering)
 - [Stock Recommendation](#Stock-Recommendation)
@@ -13,8 +13,7 @@ Curated list of `Graph Neural Network Applications in Business and Finance`
 # Dataset
 1.**The Elliptic Data Set** maps Bitcoin transactions to real entities belonging to licit categories (exchanges, wallet providers, miners, licit services, etc.) versus illicit ones (scams, malware, terrorist organizations, ransomware, Ponzi schemes, etc.). The task on the dataset is to classify the illicit and licit nodes in the graph.  https://www.kaggle.com/ellipticco/elliptic-data-set  
 
-# Forecasting
-
+# Forecasting in Finaicial Market
 1.  [Financial time series forecasting with multi-modality graph neural network](https://www.sciencedirect.com/science/article/abs/pii/S003132032100399X) (2022)
  DaweiCheng
 2.  [Spatio-temporal Multi-graph Networks for
@@ -40,15 +39,22 @@ Xu Geng, Yaguang Li, Leye Wang
 10. [Stock Forecasting using Neural Network
 with Graphs](https://etheses.whiterose.ac.uk/28012/6/Shuyi_202025658_Thesis.pdf) (2021) [Thesis]
 Shuyi Peng
+11. [Scalable Financial Index Tracking with Graph Neural Networks](https://ieeexplore.ieee.org/document/9513742) (2021)
+ Zepeng Zhang, Ziping Zhao
+12. [Lifelong Property Price Prediction: A Case Study for the Toronto Real Estate Market](https://arxiv.org/pdf/2008.05880.pdf) (2020)
+Hao Peng, Jianxin Li, Zheng Wang, Renyu Yang
 
 # Credit Rating and Risk Management
 
 1. [Financial Risk Analysis for SMEs with Graph-based Supply Chain Mining](https://www.ijcai.org/Proceedings/2020/0643.pdf) (2020)
  Shuo Yang, Zhiqiang Zhang, Jun Zhou, Yang Wang , Wang Sun, Xingyu Zhong, Yanming Fang, Quan Yu, Yuan Qi
-2. [Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud](https://ieeexplore.ieee.org/document/8759109)
- 3. [EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data](https://arxiv.org/abs/2009.14588) (2020)
+2. [Auto-encoder based Graph Convolutional Networks for Online Financial Anti-fraud](https://ieeexplore.ieee.org/document/8759109) (2019)
+Le Lv, Jianbo Cheng, Nanbo Peng
+3. [EWS-GCN: Edge Weight-Shared Graph Convolutional Network for Transactional Banking Data](https://arxiv.org/abs/2009.14588) (2020)
   Ivan Sukharev, Valentina Shumovskaia, Kirill Fedyanin, Maxim Panov, Dmitry Berestnev
- 
+4. [Temporal-Aware Graph Neural Network for Credit Risk Prediction] (https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.79) (2021)
+Daixin Wang, Zhiqiang Zhang, Jun Zhou, Peng Cui 
+
 # Fraud Detection and Money Laundering
 
  1. [A loan application fraud detection method based on knowledge graph and neural network](https://dl.acm.org/doi/abs/10.1145/3194206.3194208) (2018)
@@ -59,6 +65,9 @@ Shuyi Peng
 Daixin Wang; Jianbin Lin; Peng Cui; Quanhui Jia; Zhen Wang; Yanming Fang; Quan Yu; Jun Zhou; Shuang Yan
 4. [Anti-money laundering in bitcoin: Experimenting with graph convolutional networks for financial forensics](https://arxiv.org/abs/1908.02591) (2019)
 Mark Weber, Giacomo Domeniconi, Jie Chen, Daniel Karl I. Weidele, Claudio Bellei, Tom Robinson, Charles E. Leiserson
+5. [Towards Consumer Loan Fraud Detection: Graph Neural Networks
+with Role-Constrained Conditional Random Field] (https://ojs.aaai.org/index.php/AAAI/article/view/16582) (2021)
+Bingbing Xu, Huawei Shen, Bingjie Sun, Rong An, Qi Cao, Xueqi Cheng
 
 # Stock Recommendation
 
