@@ -66,7 +66,7 @@ Daixin Wang; Jianbin Lin; Peng Cui; Quanhui Jia; Zhen Wang; Yanming Fang; Quan Y
 4. [Anti-money laundering in bitcoin: Experimenting with graph convolutional networks for financial forensics](https://arxiv.org/abs/1908.02591) (2019)
 Mark Weber, Giacomo Domeniconi, Jie Chen, Daniel Karl I. Weidele, Claudio Bellei, Tom Robinson, Charles E. Leiserson
 5. [Towards Consumer Loan Fraud Detection: Graph Neural Networks
-with Role-Constrained Conditional Random Field] (https://ojs.aaai.org/index.php/AAAI/article/view/16582) (2021)
+with Role-Constrained Conditional Random Field](https://ojs.aaai.org/index.php/AAAI/article/view/16582) (2021)
 Bingbing Xu, Huawei Shen, Bingjie Sun, Rong An, Qi Cao, Xueqi Cheng
 
 # Stock Recommendation
