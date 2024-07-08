@@ -14,7 +14,7 @@ Curated list of `Graph Neural Network Applications in Business and Finance`
 1.**The Elliptic Data Set** maps Bitcoin transactions to real entities belonging to licit categories (exchanges, wallet providers, miners, licit services, etc.) versus illicit ones (scams, malware, terrorist organizations, ransomware, Ponzi schemes, etc.). The task on the dataset is to classify the illicit and licit nodes in the graph.  https://www.kaggle.com/ellipticco/elliptic-data-set
 
 # Forecasting in financial market
-1. [Discrete-time graph neural networks for transaction prediction in Web3 social platforms](https://link.springer.com/article/10.1007/s10994-024-06579-y)
+1. [Discrete-time graph neural networks for transaction prediction in Web3 social platforms](https://link.springer.com/article/10.1007/s10994-024-06579-y) (2024) Manuel Dileo, Matteo Zignani
 2.  [Financial time series forecasting with multi-modality graph neural network](https://www.sciencedirect.com/science/article/abs/pii/S003132032100399X) (2022)
  DaweiCheng
 3.  [Spatio-temporal Multi-graph Networks for
